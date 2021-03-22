@@ -2,8 +2,8 @@
 
 ## Description:
 
-This is a hypothetical social network API. It uses express.js, and mongoose NPM packages. I make this project to learn and demonstrate MongoDB in a realistic manner.
-Find a demonstration video at:
+This is a hypothetical social network API. It uses express.js, and mongoose NPM packages. I made this project to learn and demonstrate MongoDB in a realistic manner.
+Find a demonstration video at: https://drive.google.com/file/d/16-prl2LEkkHmyJjbv6IwRGBVCv6ITP4z/view
 
 ## Table of Contents
 
